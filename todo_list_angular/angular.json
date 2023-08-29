@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "todo-list-angular": {
+      "architect": {
+        "build": {
+          "options": {
+            "outputPath": "dist/todo-list-angular"
+          }
+        }
+      }
+    }
+  }
+}

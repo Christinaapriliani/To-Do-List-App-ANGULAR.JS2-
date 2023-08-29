@@ -1,0 +1,19 @@
+{
+  "name": "todo_list_angular",
+  "version": "0.0.1",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+  },
+  "dependencies": {
+    "@angular/core": "~13.2.0",
+    "@angular/common": "~13.2.0",
+    "@angular/compiler": "~13.2.0",
+    "@angular/forms": "~13.2.0",
+  },
+  "devDependencies": {
+    "@angular/cli": "~13.2.4",
+    "@angular/compiler-cli": "~13.2.0",
+  }
+}
